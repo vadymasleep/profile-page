@@ -1,0 +1,56 @@
+body {
+    margin:0; 
+    
+    background: url(img/Sage%20Green%20%20Cream%20Swirl%20Cute%20Aesthetic%20Background%20for%20Instagram%20Stories%20+%20iPhone%20Android%20Screensaver.jpg) 
+        
+   
+   
+}
+
+.card
+{width:400px;
+    margin: 30px auto;
+    font-size 10px; 
+ 
+    box-shadow: 100px 
+}
+
+.title { font-size:  45px;
+color: darkgreen;
+border-radius: 10px;  
+    
+box-shadow:0 5px 100px 
+    #cccc
+}
+
+.card-photo{
+    display:block; 
+    width 200px;
+    height 200px; 
+    margin: 0 auto; 
+    border-radius: 7%
+} 
+
+.card-title
+{font-size: 20px 
+    color:darkgreen;
+    
+}
+
+.card-text {
+    font-size: 20px 
+        
+}
+
+.card-subtitle {
+    font-size: 18px 
+        color:#cccc
+        
+}
+
+.card-list {
+    padding-left: 0;
+    list-style-position: inside; 
+    font-size: 14px 
+
+}
